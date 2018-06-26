@@ -1,0 +1,8 @@
+
+Uses JSONPlaceholder fake api for users and post api
+
+1] https://jsonplaceholder.typicode.com/users -- To get all the user data
+
+2] https://jsonplaceholder.typicode.com/users/id -- To get specific user data using userId
+
+3] https://jsonplaceholder.typicode.com/posts -- To get post data of users
